@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jiehong.intellijtypotheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jiehong.intellijtypotheme.MyBundle
 
 class MyApplicationService {
 
